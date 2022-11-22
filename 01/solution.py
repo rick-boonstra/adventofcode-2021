@@ -1,5 +1,3 @@
-import numpy as np
-
 with open('01/input.txt', 'r') as inputfile:
     depth_list = inputfile.read().splitlines()
 
